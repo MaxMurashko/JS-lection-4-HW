@@ -13,8 +13,3 @@ for(country of countries) {
 
 
 document.getElementById("countries").innerHTML = htmlString;
-
-//var i = 0; i < countries.length; i++
-//var i in countries var country = countries[i]
-//var country of countries
-//class="${+i % 2 ? "" : "bg-secondary"}"
